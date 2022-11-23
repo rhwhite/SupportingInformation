@@ -1,4 +1,4 @@
-Code to reproduce figures in White et al. The Unprecedented Pacific Northwest Heatwave of June 2021, submitted to Nature Communications. The environment was installed using conda. Data is publically available through the following links:
+Code to reproduce figures in White et al. The Unprecedented Pacific Northwest Heatwave of June 2021 (submitted 2022 to Nature Communications). The environment was installed using conda. Data is publically available through the following links:
 
 https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview
 
